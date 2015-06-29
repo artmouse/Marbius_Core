@@ -1,0 +1,15 @@
+{
+  "name": "",
+  "type": "",
+  "description": "",
+  "license": "",
+  "authors": [
+    {
+      "name": "Marbius Magento Team",
+      "email": "magento@marbius.com"
+    }
+  ],
+  "require": {
+
+  }
+}
